@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="BodyShop" src="https://arweave.net/UNRcYs_BRvLNqEewkOoSoMhvGIkEjgLc5zkKinWLcfM" width="100" />
+  <img alt="BodyShop" src="https://arweave.net/HEOaAWuf9lrgckCOSZP4yaGZv7bi8wtpGgjfh2gF2xc" width="100" />
 </p>
 <h1 align="center">
   The Body Shop
@@ -30,9 +30,16 @@ In order to test the body shop frontend functionality you can follow these instr
     This sample wallet includes a couple of rusty robot test collection NFTs as well as rusty traits that you can utilize to test the dynamic customization, fusion, and slot machine functionality of the Body Shop. In order to get access to this wallet you can send me an email at agulimonti09@gmail.com
 
 3.  **Body Shop Testing**
+
     Head over to the test collection link in order to start testing the Body Shop functionality -> https://www.body-shop.xyz/rusty2
     
     Once there you can take a look at this video on how to start navigating through the frontend and testing out the site using your sample NFTs / traits -> https://drive.google.com/file/d/1HUijDlUT2C_GbkFXj-WAJOmAujUCXhoW/view?usp=sharing
    
 
-4.  **Open the source code and start editing!**
+**Body Shop Client Links**
+
+Here are some other Body Shop client links that you can head over to test out the system as well. Keep in mind that you will have to purchase one of these NFTs in order to test with these specific projects.
+
+  * Baked Beavers - https://www.body-shop.xyz/bakedbeavers
+  * Blxckout - https://www.body-shop.xyz/blxckout
+  * Udder Chaos - https://www.body-shop.xyz/udderchaos

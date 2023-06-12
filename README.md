@@ -36,7 +36,7 @@ In order to test the body shop frontend functionality you can follow these instr
     Once there you can take a look at this video on how to start navigating through the frontend and testing out the site using your sample NFTs / traits -> https://drive.google.com/file/d/1HUijDlUT2C_GbkFXj-WAJOmAujUCXhoW/view?usp=sharing
    
 
-**Body Shop Client Links**
+## Body Shop Client Links
 
 Here are some other Body Shop client links that you can head over to test out the system as well. Keep in mind that you will have to purchase one of these NFTs in order to test with these specific projects.
 

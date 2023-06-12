@@ -120,14 +120,7 @@ const Customize = (props) => {
         userWallet: publicKey.toBase58(),
       });
 
-      var config = {
-        method: "post",
-        url: "https://rmbl36wkd5.execute-api.us-east-1.amazonaws.com/Production/getlivetraits",
-        headers: {
-          "x-api-key": process.env.GATEWAY_KEY,
-          "Content-Type": "application/json",
-        },
-        data: data,
+      var config = { //not available in sample code
       };
 
       axios(config)
@@ -219,14 +212,7 @@ const Customize = (props) => {
                 upgradeCategory: upgradeCategory,
               });
 
-              var config = {
-                method: "post",
-                url: "https://rmbl36wkd5.execute-api.us-east-1.amazonaws.com/Production/setupgrade",
-                headers: {
-                  "x-api-key": process.env.GATEWAY_KEY,
-                  "Content-Type": "application/json",
-                },
-                data: data,
+              var config = { //not available in sample code
               };
 
               axios(config).then(function (response) {
@@ -319,14 +305,7 @@ const Customize = (props) => {
         swap: swapTraits,
       });
 
-      var config = {
-        method: "post",
-        url: "https://rmbl36wkd5.execute-api.us-east-1.amazonaws.com/Production/setupgrade",
-        headers: {
-          "x-api-key": process.env.GATEWAY_KEY,
-          "Content-Type": "application/json",
-        },
-        data: data,
+      var config = { //not available in sample code
       };
 
       axios(config)

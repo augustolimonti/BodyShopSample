@@ -77,14 +77,7 @@ const Traits = (props) => {
       action: "getBodyShopTraits",
     });
 
-    var config = {
-      method: "post",
-      url: "https://rmbl36wkd5.execute-api.us-east-1.amazonaws.com/Production/getlivetraits",
-      headers: {
-        "x-api-key": process.env.GATEWAY_KEY,
-        "Content-Type": "application/json",
-      },
-      data: data,
+    var config = { //not available in sample code
     };
 
     axios(config)
@@ -136,14 +129,7 @@ const Traits = (props) => {
       action: "getTraitToPurchase",
     });
 
-    var config = {
-      method: "post",
-      url: "https://rmbl36wkd5.execute-api.us-east-1.amazonaws.com/Production/traitpurchase",
-      headers: {
-        "x-api-key": process.env.GATEWAY_KEY,
-        "Content-Type": "application/json",
-      },
-      data: data,
+    var config = { //not available in sample code
     };
 
     let soldOut = axios(config)
@@ -197,14 +183,7 @@ const Traits = (props) => {
       action: "getBodyShopTraits",
     });
 
-    var config = {
-      method: "post",
-      url: "https://rmbl36wkd5.execute-api.us-east-1.amazonaws.com/Production/getlivetraits",
-      headers: {
-        "x-api-key": process.env.GATEWAY_KEY,
-        "Content-Type": "application/json",
-      },
-      data: data,
+    var config = { //not available in sample code
     };
 
     axios(config)

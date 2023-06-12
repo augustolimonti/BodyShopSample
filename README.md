@@ -1,45 +1,42 @@
-<p align="center">
+<div align="center">
   <img alt="BodyShop" src="https://arweave.net/HEOaAWuf9lrgckCOSZP4yaGZv7bi8wtpGgjfh2gF2xc" width="100" />
-</p>
-<h1 align="center">
-  The Body Shop
-</h1>
-<p align="center">
-  A B2B SaaS web3 product that offers a no-code solution for any NFT project on Solana to create and manage their own trait shop and customization platform to enable NFT trait swapping, fusions, and mutations through metadata upgrades.
-</p>
+  <h1>The Body Shop</h1>
+  <p>
+    A B2B SaaS web3 product providing a no-code solution for any NFT project on Solana. Enabling you to easily create, manage, and customize your own trait shop platform for NFT trait swapping, fusions, and mutations through metadata upgrades.
+  </p>
+</div>
 
-## Introduction
+## Overview
 
-This is sample code for a closed source product called 'The Body Shop' created by me for my company maxin'. The code provided here is only meant to provide some insight into the work that went into building this product and is not meant to be tested with by any means. The sample code specifically showcases the following frontend functionality of the Body Shop:
+Welcome to 'The Body Shop' — a project developed by Maxin'. Please note, this repository contains sample code for showcasing the front-end capabilities of our closed-source product. It is not intended for testing or reproduction but rather to provide a glimpse into the development process behind the product.
 
-  * Trait Shop
-  * Dynamic Customizer
-  * Navigation
-  * UI styled Components
+The showcased functionalities include:
 
-## Testing the Body Shop
+- Trait Shop interface
+- Dynamic Customizer
+- Navigation system
+- UI styled Components
 
-In order to test the body shop frontend functionality you can follow these instructions:
+## Exploring the Body Shop
 
-1.  **Setup a Phantom Wallet.**
-    
-    Here is an insightful video on how to get your phantom wallet set up on your computer -> https://www.youtube.com/watch?v=BiZJDWgxIvs&t=61s
+To explore the Body Shop's front-end functionality, follow these steps:
 
-2.  **Get Access to my Sample Wallet.**
+1. **Set up a Phantom Wallet.**
 
-    This sample wallet includes a couple of rusty robot test collection NFTs as well as rusty traits that you can utilize to test the dynamic customization, fusion, and slot machine functionality of the Body Shop. In order to get access to this wallet you can send me an email at agulimonti09@gmail.com
+   Here's a comprehensive video guide on setting up your Phantom Wallet -> [Setup Phantom Wallet](https://www.youtube.com/watch?v=BiZJDWgxIvs&t=61s)
 
-3.  **Body Shop Testing**
+2. **Access the Sample Wallet.**
 
-    Head over to the test collection link in order to start testing the Body Shop functionality -> https://www.body-shop.xyz/rusty2
-    
-    Once there you can take a look at this video on how to start navigating through the frontend and testing out the site using your sample NFTs / traits -> https://drive.google.com/file/d/1HUijDlUT2C_GbkFXj-WAJOmAujUCXhoW/view?usp=sharing
-   
+   The Sample Wallet includes a couple of rusty robot test collection NFTs and rusty traits for testing the dynamic customization, fusion, and slot machine functionality of the Body Shop. For access, please email me at agulimonti09@gmail.com
 
-## Body Shop Client Links
+3. **Explore the Body Shop.**
 
-Here are some other Body Shop client links that you can head over to test out the system as well. Keep in mind that you will have to purchase one of these NFTs in order to test with these specific projects.
+   Visit [Rusty's Body Shop](https://www.body-shop.xyz/rusty2) to begin exploring the Body Shop's functionality. For guidance, check out this instructional video -> [Navigating Body Shop](https://drive.google.com/file/d/1HUijDlUT2C_GbkFXj-WAJOmAujUCXhoW/view?usp=sharing)
 
-  * Baked Beavers - https://www.body-shop.xyz/bakedbeavers
-  * Blxckout - https://www.body-shop.xyz/blxckout
-  * Udder Chaos - https://www.body-shop.xyz/udderchaos
+## Community Body Shops
+
+Visit the following Body Shops of our clients to see more applications of our system. Remember, you'll need to own an NFT from these collections to test these specific projects.
+
+- Baked Beavers - [Baked Beavers Body Shop](https://www.body-shop.xyz/bakedbeavers)
+- Blxckout - [Blxckout Body Shop](https://www.body-shop.xyz/blxckout)
+- Udder Chaos - [Udder Chaos Body Shop](https://www.body-shop.xyz/udderchaos)

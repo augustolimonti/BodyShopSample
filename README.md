@@ -40,3 +40,18 @@ Visit the following Body Shops of our clients to see more applications of our sy
 - Baked Beavers - [Baked Beavers Body Shop](https://www.body-shop.xyz/bakedbeavers)
 - Blxckout - [Blxckout Body Shop](https://www.body-shop.xyz/blxckout)
 - Udder Chaos - [Udder Chaos Body Shop](https://www.body-shop.xyz/udderchaos)
+
+## The Body Shop Dashboard
+
+The Body Shop comes equipped with a state of the art Dashboard where project owners can manage their own trait shop and customization platform for their NFT collection without any previous coding knowledge.
+
+With this dashboard project owners have the ability to do the following:
+
+  *  Create & Manage Traits to sell on their Trait Shop.
+  *  Modify and customize the art layering of an NFT collection through adding conflicts & blockers.
+  *  Approve all incoming upgrades with the click of a button.
+  *  Create and manage their own trait Slot Machine.
+
+You can test the Body Shop Dashboard functionality by heading over to the [Dashbaord Link](https://bodyshop-dash.xyz/) and getting access to the Sample Wallet. This wallet has owner access to the dashboard of the Rusty Robots test collection.  For access, please email me at agulimonti09@gmail.com.
+
+
